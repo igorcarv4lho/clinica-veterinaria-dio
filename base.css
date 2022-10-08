@@ -8,10 +8,10 @@ body {
 }
 
 .wrapper {
-    width: 1200px;
+    width: 1000px;
     display: flex;
     margin: 0 auto;
-    background-color: aquamarine;
+    background-color: rgba(88, 88, 88, 0.233);
 }
 .main {
     display: flex;
@@ -20,7 +20,7 @@ body {
 }
 .menu {
     width: 15%;
-    background-color: aqua;
+    background-color: rgb(116, 114, 114);
     padding: 10px 20px 0px;
 }
 .header {
@@ -37,6 +37,6 @@ body {
     padding: 20px;
 }
 .footer {
-    background-color: rgb(99, 56, 240);
-    min-height: 150px;
+    background-color: rgb(255, 255, 255);
+    min-height: 10px;
 }
